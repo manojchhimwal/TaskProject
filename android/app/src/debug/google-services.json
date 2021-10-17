@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "326069795784",
+    "project_id": "taskproject-8293b",
+    "storage_bucket": "taskproject-8293b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326069795784:android:c4965672342fb648eb1efd",
+        "android_client_info": {
+          "package_name": "com.taskproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326069795784-a4fkonum1a83j1ccuqbj6br4tulum65u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPYP3pQd_pY1ivb3ETKvFMvhg3gli3AJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326069795784-a4fkonum1a83j1ccuqbj6br4tulum65u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "326069795784-lsencr77mm151t3g0vckih9t3rsp3f8f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.TaskProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
